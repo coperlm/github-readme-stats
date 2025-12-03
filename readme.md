@@ -40,7 +40,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats/discussions/1770">FAQ</a>
   ·
   <a href="https://github.com/anuraghazra/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
-</p>
+</p> 
 
 
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!</p>
